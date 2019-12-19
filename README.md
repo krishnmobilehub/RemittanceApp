@@ -35,4 +35,5 @@
 # Installation
 
 Open terminal and use below command to install cocoapod
-sudo gem install cocoapods
+
+- sudo gem install cocoapods
