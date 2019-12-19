@@ -24,7 +24,7 @@
 
 
 # Video
-[TapVideo.mov.zip](https://github.com/krishnmobilehub/TapPaymentApp/files/3750979/TapVideo.mov.zip)
+[RemittanceApp.mov.zip](https://github.com/krishnmobilehub/RemittanceApp/files/3982994/RemittanceApp.mov.zip)
    
 # Requirements
 
