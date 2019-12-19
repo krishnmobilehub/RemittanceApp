@@ -1,4 +1,4 @@
-# TapPaymentApp
+# RemittanceApp
 
 # Feature
 
