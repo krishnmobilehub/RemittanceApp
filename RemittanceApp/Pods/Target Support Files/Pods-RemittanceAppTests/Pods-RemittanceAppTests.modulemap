@@ -1,0 +1,6 @@
+framework module Pods_RemittanceAppTests {
+  umbrella header "Pods-RemittanceAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
